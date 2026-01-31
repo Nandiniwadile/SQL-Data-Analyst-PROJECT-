@@ -46,8 +46,8 @@ It demonstrates real-world fraud detection logic commonly used in **banking and 
     - `newbalanceDest = 0`
 
 📁 Files Included
-- `fraud_detection.sql` –SQL Data Analyst.pdf
-- `SQL_Data_Analyst_Project.pdf` – SQL Data Analyst.pdf
+- `fraud_detection.sql` – " sql.sql"
+- `SQL_Data_Analyst_Project.pdf` – " SQL Data Analyst.pdf "
 
 👩‍💻 Author
 Nandini Wadile 
